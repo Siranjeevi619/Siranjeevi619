@@ -70,12 +70,12 @@ My personal portfolio showcasing my work, skills, and experiences.
 
 ### 💬 **Let's Collaborate:**
 
-If you're looking for a MERN stack developer, or just want to connect and discuss technology, feel free to reach out to me!
+If you're looking for a **MERN stack** developer, or just want to connect and discuss technology, feel free to reach out to me! Let's build something great together. 🚀
 
 ---
 
 ### ⚡ **Fun Fact:**
-I’m constantly learning new things and optimizing my coding workflows. My current focus is on **cloud technologies** and **DevOps**! ☁️
+I’m constantly learning new things and optimizing my coding workflows. My current focus is on **DevOps** and **Data Structures & Algorithms (DSA)**! ☁️
 
 ---
 
