@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm **Siranjeevi**, a passionate **MERN stack** developer from **Coimbatore, India**. I specialize in building full-stack applications and love tackling challenges through code. In my spare time, you can find me solving algorithms on **LeetCode** or working on open-source projects. 🚀
+👋 Hi there! I'm **Siranjeevi**, a passionate **MERN stack** developer from **Coimbatore, India**. I specialize in building full-stack applications and love tackling challenges through code. In my spare time, you can find me  working on open-source projects. 🚀
 
 ---
 
