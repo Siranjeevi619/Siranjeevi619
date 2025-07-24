@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm **Siranjeevi**, a passionate **MERN stack** developer from **Coimbatore, India**. I specialize in building full-stack applications and love tackling challenges through code. In my spare time, you can find me  working on open-source projects. 🚀
+👋 Hi there! I'm **Siranjeevi**, a passionate **MERN stack** and **Spring Boot** developer from **Coimbatore, India**. I specialize in building full-stack applications and microservices, and I love tackling challenges through code. In my spare time, you can find me working on open-source projects. 🚀
 
 ---
 
@@ -20,6 +20,9 @@
 #### **Backend:**
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) **Node.js**
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) **Express.js**
+- ![Java Servlet](https://img.shields.io/badge/Servlet-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white) **Java Servlet**
+- ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) **Spring Boot**
+- ![Spring Cloud](https://img.shields.io/badge/SpringCloud-%23007396.svg?style=for-the-badge&logo=spring&logoColor=white) **Spring Cloud Gateway**
 
 #### **Databases:**
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB**
@@ -51,11 +54,17 @@ A fun, interactive TicTacToe game built using React.js.
 #### 🌐 [PersonalPortfolio](https://github.com/Siranjeevi619/PersonalPortfolio)  
 My personal portfolio showcasing my work, skills, and experiences.
 
+#### 🧩 [Library Management System (Microservices)](https://github.com/Siranjeevi619)  
+A complete library management app using Spring Boot Microservices (User, Book, Order, and Gateway services).
+
+#### 🌐 [User Management System - Servlet](https://github.com/Siranjeevi619)  
+Java Servlet-based user login & registration system using MySQL and JSP.
+
 ---
 
 ### 📈 **GitHub Stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siranjeevi619&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siranjeevi619&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siranjeevi619&layout=compact&theme=radical)
 
 ---
@@ -70,12 +79,12 @@ My personal portfolio showcasing my work, skills, and experiences.
 
 ### 💬 **Let's Collaborate:**
 
-If you're looking for a **MERN stack** developer, or just want to connect and discuss technology, feel free to reach out to me! Let's build something great together. 🚀
+If you're looking for a **MERN stack** or **Spring Boot** developer, or just want to connect and discuss technology, feel free to reach out to me! Let's build something great together. 🚀
 
 ---
 
 ### ⚡ **Fun Fact:**
-I’m constantly learning new things and optimizing my coding workflows. My current focus is on **DevOps** and **Data Structures & Algorithms (DSA)**! ☁️
+I’m constantly learning new things and optimizing my coding workflows. My current focus is on **DevOps**, **Spring Microservices**, and **Data Structures & Algorithms (DSA)**! ☁️
 
 ---
 
