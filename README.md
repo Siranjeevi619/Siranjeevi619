@@ -119,13 +119,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siranjeevi619&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Siranjeevi619&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siranjeevi619&layout=compact&theme=tokyonight&hide_border=true"/>
 <br><br>
 
 <img src="https://github-readme-streak-vercel.vercel.app?user=Siranjeevi619&theme=tokyonight&hide_border=true"/>
-<br><br>
+<br><br> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siranjeevi619&theme=tokyo-night"/>
 
@@ -157,6 +157,6 @@
 
 ### *Engineering software that scales. Building AI that matters.*
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siranjeevi619&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Siranjeevi619&theme=tokyonight&no-frame=true&row=1&column=7"/> -->
 
 </div>
