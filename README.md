@@ -1,132 +1,225 @@
-# 💫 About Me
+# Hi there 👋 I'm Siranjeevi P
 
-👋 Hi there! I'm **Siranjeevi P**, a **Full Stack Developer** from **Coimbatore, India** 🇮🇳  
-Currently pursuing **B.Tech in Information Technology** at **Karpagam College of Engineering (Anna University)**.
+### Full Stack Software Engineer | AI Developer | Java & MERN Stack Enthusiast
 
-I have hands-on experience in building **full-stack web applications**, **RESTful APIs**, and **serverless backends** using **Java**, **JavaScript**, **Spring Boot**, and the **MERN stack**.
+I'm a passionate **Full Stack Software Engineer** from **Coimbatore, India 🇮🇳** with experience building scalable web applications, AI-powered solutions, RESTful APIs, and cloud-native applications.
 
----
-
-## 🎓 Education
-
-- **B.Tech – Information Technology**  
-  _Karpagam College of Engineering, Anna University_ (2022 – 2026)  
-  **CGPA:** 7.76
-
-- **HSC – State Board** (2022) — **85%**
-- **SSLC – State Board** (2020) — **91%**
+Currently, I'm focused on **Spring Boot, React, TypeScript, Python, AWS, FastAPI, LangChain, and Generative AI** while continuously sharpening my problem-solving skills through **600+ LeetCode problems**.
 
 ---
 
-## 💻 Programming Languages
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="48" title="Java"/>
-  <img src="https://img.icons8.com/color/96/javascript.png" width="48" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/96/python.png" width="48" title="Python"/>
-  <img src="https://img.icons8.com/color/96/c-programming.png" width="48" title="C"/>
+* 🎓 B.Tech Information Technology (2022 – 2026)
+* 🏫 Karpagam College of Engineering (Anna University)
+* 💼 Frontend Developer Intern @ Haskel AI
+* 🤖 Passionate about AI, RAG Applications & Full Stack Development
+* ☁️ AWS Cloud & Microservices Enthusiast
+* 📚 Always learning new technologies
+* 💡 Love solving real-world engineering problems
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.icons8.com/color/48/amazon-dynamodb.png"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,linux" />
+</p>
+
+## AI & Machine Learning
+
+* LangChain
+* Retrieval-Augmented Generation (RAG)
+* Groq LLM
+* Vector Embeddings
+* Prompt Engineering
+* Semantic Search
+
+---
+
+# 💼 Professional Experience
+
+## Frontend Developer Intern — Haskel AI *(Feb 2025 – Feb 2026)*
+
+* Built **12+ reusable React TypeScript components**
+* Developed **20+ REST APIs** using Node.js & TypeScript
+* Improved application performance by **20%**
+* Reduced frontend code duplication by **25%**
+* Collaborated in Agile teams across multiple production sprints
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 ShopMind AI – Intelligent Inventory Assistant
+
+AI-powered inventory management platform built using:
+
+* Python
+* FastAPI
+* LangChain
+* Groq LLM
+* MongoDB
+* React
+* RAG Architecture
+
+### Features
+
+* AI inventory assistant
+* Natural language product search
+* Intelligent stock management
+* Secure LLM integration
+* RESTful APIs
+
+---
+
+## 📄 Resume-Doc AI
+
+A Retrieval-Augmented Generation (RAG) chatbot capable of answering questions from uploaded resumes.
+
+### Tech
+
+* Python
+* FastAPI
+* LangChain
+* Groq
+* Vector Embeddings
+* React
+
+---
+
+## 🏙 Cityzen
+
+Citizen Management System built using **Spring Boot Microservices**.
+
+### Features
+
+* JWT Authentication
+* Role-Based Access Control
+* Docker
+* Jenkins CI/CD
+* MongoDB
+* MySQL
+
+---
+
+## 🎓 Develop Your Skills
+
+Microservices-based E-Learning Platform.
+
+### Tech
+
+* MERN Stack
+* TypeScript
+* Docker
+* MongoDB
+* REST APIs
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siranjeevi619&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siranjeevi619&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siranjeevi619&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Frontend Technologies
+# 🏆 Achievements
 
-<p align="left">
-  <img src="https://img.icons8.com/color/96/react-native.png" width="48" title="React.js"/>
-  <img src="https://img.icons8.com/color/96/html-5.png" width="48" title="HTML5"/>
-  <img src="https://img.icons8.com/color/96/css3.png" width="48" title="CSS3"/>
-  <img src="https://img.icons8.com/color/96/bootstrap.png" width="48" title="Bootstrap"/>
+🏅 Best Project Award – Karpagam College of Engineering (2026)
+
+💯 Solved **600+ Data Structures & Algorithms problems** on LeetCode
+
+☁️ AWS Cloud Practitioner Certified
+
+💻 Wipro TalentNext Java Full Stack Certified
+
+---
+
+# 📜 Certifications
+
+* AWS Cloud Practitioner Essentials
+* Wipro TalentNext Java Full Stack
+* IBM Node.js & Express
+* Meta Advanced React
+* MongoDB University
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**[siranjeevi0619@gmail.com](mailto:siranjeevi0619@gmail.com)**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/siranjeevi-selvam-003626258/
+
+💻 **GitHub**
+
+https://github.com/Siranjeevi619
+
+🧩 **LeetCode**
+
+https://leetcode.com/u/Siranjeevi619/
+
+---
+
+<p align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Siranjeevi619\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
+
 </p>
 
 ---
 
-## ⚙️ Backend Technologies
+<p align="center">
 
-<p align="left">
-  <img src="https://img.icons8.com/color/96/nodejs.png" width="48" title="Node.js"/>
-  <img src="https://img.icons8.com/color/96/express-js.png" width="48" title="Express.js"/>
-  <img src="https://img.icons8.com/color/96/spring-logo.png" width="48" title="Spring Boot"/>
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="48" title="Java Servlet"/>
+![](https://komarev.com/ghpvc/?username=Siranjeevi619\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
 </p>
 
 ---
 
-## 🗄️ Databases
+### 💡 Quote
 
-<p align="left">
-  <img src="https://img.icons8.com/color/96/mongodb.png" width="48" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="48" title="MySQL"/>
-  <img src="https://img.icons8.com/color/96/amazon-dynamodb.png" width="48" title="DynamoDB"/>
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-<p align="left">
-  <img src="https://img.icons8.com/color/96/amazon-web-services.png" width="48" title="AWS"/>
-  <img src="https://img.icons8.com/color/96/docker.png" width="48" title="Docker"/>
-  <img src="https://img.icons8.com/color/96/jenkins.png" width="48" title="Jenkins"/>
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://img.icons8.com/color/96/git.png" width="48" title="Git"/>
-  <img src="https://img.icons8.com/color/96/github.png" width="48" title="GitHub"/>
-  <img src="https://img.icons8.com/color/96/postman-api.png" width="48" title="Postman"/>
-  <img src="https://img.icons8.com/color/96/linux.png" width="48" title="Linux"/>
-</p>
-
----
-
-## 🏗️ Projects
-
-### 🎓 LearnHub
-
-Skill development platform offering tutorials and quizzes  
-🔗 https://github.com/Siranjeevi619/LearnHub
-
-### 🧠 Thinker – Serverless Notes Application
-
-Built using **AWS Lambda**, **API Gateway**, and **DynamoDB**
-
-### 📚 Library Management System (Microservices)
-
-Spring Boot microservices with API Gateway
-
-### 🌐 User Management System (Servlet)
-
-Java Servlet-based login & registration system
-
-### ✅ Todo App (React)
-
-🔗 https://github.com/Siranjeevi619/todoApp
-
-### 🎮 TicTacToe – React
-
-🔗 https://github.com/Siranjeevi619/TicTacToe-React
-
----
-
-## 🔐 Technical Knowledge
-
-- REST API development
-- JWT-based authentication
-- Serverless backend development
-- CRUD operations
-- Git-based version control
-
----
-
-## 📫 Get in Touch
-
-- 📧 **siranjeevi.pro@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/siranjeevi-selvam-003626258/
-- 💻 LeetCode: https://leetcode.com/u/Siranjeevi619/
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Siranjeevi619&icon=8&color=1)
+> *"First, solve the problem. Then, write the code."* — John Johnson
