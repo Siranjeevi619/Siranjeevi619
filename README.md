@@ -153,10 +153,3 @@
 
 ---
 
-<div align="center">
-
-### *Engineering software that scales. Building AI that matters.*
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Siranjeevi619&theme=tokyonight&no-frame=true&row=1&column=7"/> -->
-
-</div>
